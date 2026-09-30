@@ -1,1 +1,4 @@
 node_modules/
+openShift/oc
+openShift/kubectl
+openShift/*.tar.gz
